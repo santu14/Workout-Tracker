@@ -1,7 +1,7 @@
 
 # Workout Tracker     [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
-This application helps the user keep track of their daily workouts and displays a chart showing their progress through the week. This application was built using HTML CSS JavaScrip Node.js Express npm, Mongoose npm and mongodb.
+An application which helps the user keep track of their daily workouts and displays a chart showing their progress through the week. This application was built using HTML CSS JavaScrip Node.js Express npm, Mongoose npm and mongodb.
 
 Click [HERE](https://polar-reaches-11430.herokuapp.com/stats) to use/view working application.
 ### Demo
